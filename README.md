@@ -7,7 +7,7 @@ Ideas: Use alerts to monitor when new media is added.
        into a text message that is sent as an alert.
 
        Each title sent in the message could be a link to the media's TVDB/IMDB page. Might have to pull their API
-       as well. 
+       as well.
 
 TODOS: Implement alerts to look for changes in media.
        Figure out a way to send out hourly alerts. (Text message, email, etc)
